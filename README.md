@@ -1,3 +1,4 @@
+## Table: Orbital Parameters for US Objects
 \begin{table}[htbp]
     \centering
     \begin{tabular}{lcccccc}
@@ -16,5 +17,4 @@
         us10 & 6975.4982 & 0.000241 & 34.9938 & 306.353  & 110.1878 \\
         \bottomrule
     \end{tabular}
-    \caption{Orbital parameters for US objects}
 \end{table}
